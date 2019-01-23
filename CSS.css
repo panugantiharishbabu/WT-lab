@@ -1,0 +1,17 @@
+body {
+  background-color: lightgray;
+}
+
+h2 {
+  color: yellow;
+}
+h3{
+    color:black;
+}
+
+p{
+    color:blue;
+}
+h2{
+    color:red;font-weight:bold;
+}
